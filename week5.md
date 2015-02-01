@@ -7,7 +7,7 @@ Bench:
 ### 05-02
 Push Jerk:
 3x8
-    -> Aim for 3 sets @ heaviest from ![01-02](week1.md)
+    -> Aim for 3 sets @ heaviest from [01-02](week1.md)
 
 ### 05-03
 Bench:

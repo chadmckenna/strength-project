@@ -7,7 +7,7 @@ Bench:
 ### 06-02
 Split Jerk:
 2x8
-    -> Try and hit 2 @ weight from ![02-02](week2.md)
+    -> Try and hit 2 @ weight from [02-02](week2.md)
 
 ### 06-03
 Bench:
