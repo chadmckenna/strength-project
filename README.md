@@ -1,12 +1,31 @@
-# strength-project
-Strength Programming for the next several weeks.
+# Strength Project
+Strength Programming for the next several weeks. Following are links to the corresponding weeks programming.
 
-  [week1](week1.md)
-  [week2](week2.md)
-  [week3](week3.md)
-  [week4](week4.md)
-  [week5](week5.md)
-  [week6](week6.md)
-  [week7](week7.md)
-  [week8](week8.md)
+[Week One](week1.md)
+
+[Week Two](week2.md)
+
+[Week Three](week3.md)
+
+[Week Four](week4.md)
+
+[Week Five](week5.md)
+
+[Week Six](week6.md)
+
+[Week Seven](week7.md)
+
+[Week Eight](week8.md)
+
+## Goals:
+  1. Improve overhead strength
+  2. Improve bench press
+  3. Improve Jerk skills
   
+## Current Numbers:
+* Bench: 235#
+* Press: 175#
+* Jerk
+  * Split: 250#
+  * BtN: 265#
+* Strict HSPU: 2
