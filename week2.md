@@ -4,17 +4,21 @@
 ```
 Bench:
 5x75%, 3x85%, 1+95%
+155#/175#/200#x3
 
 Weight Back Planks:
-6x2 min
+3x1.5-2 min
+30#/45#/45#
 
 DB Tri Extension:
-6x12
+4x10
+50#
 
 WOD:
 5 Rounds:
 40 cal Assault Bike
 Rest 3 minutes
+2:36/2:32/2:38/2:36/2:40
 ```
 
 ### 02-02
