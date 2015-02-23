@@ -29,3 +29,28 @@ Strength Programming for the next several weeks. Following are links to the corr
   * Split: 250#
   * BtN: 265#
 * Strict HSPU: 2
+
+## Movements
+* Jerk
+  * Split, Push/Power, BtN
+* Press
+  * Bench, strict, push
+* Overhead Squat
+* KB Swings
+* Pull Ups
+  * Regular, weighted
+* Muscle ups
+* Toes to bar
+* Dips
+  * Ring, regular
+* HSPU
+  * Strict, kipping
+* Pushups
+* Air squats
+* Assault Bike
+* Running
+* Double unders
+* Situps
+  * GHD, regular
+* Wallballs
+* Box jumps
