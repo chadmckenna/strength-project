@@ -22,7 +22,7 @@ Strength Programming for the next several weeks. Following are links to the corr
   2. Improve bench press
   3. Improve Jerk skills
   
-## Current Numbers:
+## Starting Numbers: (2/2/2015)
 * Bench: 235#
 * Press: 175#
 * Jerk
