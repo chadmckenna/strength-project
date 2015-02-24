@@ -30,6 +30,10 @@ Strength Programming for the next several weeks. Following are links to the corr
   * BtN: 265#
 * Strict HSPU: 2
 
+## Cycle 2:
+* Bench: 240#
+* Press: 180#
+
 ## Movements
 * Jerk
   * Split, Push/Power, BtN
