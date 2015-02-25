@@ -4,14 +4,15 @@
 ```
 Bench:
 5x65%, 5x75%, 5+x85%
+9x185#
 
-Side planks:
-6x1 min (3 each side)
+Planks and dips
 
 WOD:
 4 Rounds:
 50 cal Assault Bike
 Rest 3.5 min
+3:12/3:14/3:16/3:06
 ```
 
 ### 03-02
