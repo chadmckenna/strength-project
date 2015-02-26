@@ -18,23 +18,29 @@ Rest 3.5 min
 ### 03-02
 ```
 Behind the Neck Jerk:
-2x6
+6x2
     -> Work towards 95% of jerk
+Worked up to 235#
     
 Jerk Drives:
-3 @ 70%
-3 @ 90%
-2 @ 100%
-2 @ 110%
-2 @ 120%
-2 @ 130%
-2 @ 120%
+3 @ 70% - 185#
+3 @ 90% - 225#
+2 @ 100% - 250#
+2 @ 110% - 275#
+2 @ 120% - 300#
+2 @ 130% - 325#
+2 @ 120% - 300#
 ```
 
 ### 03-03
 ```
 Bench:
 3x70%, 3x80%, 3+x90%
+
+Tri-extensions:
+4x10-12 -- heavy
+Planks:
+4x1 min
 
 WOD:
 10 Rounds of Cindy
