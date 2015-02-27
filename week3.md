@@ -36,22 +36,26 @@ Jerk Drives:
 ```
 Bench:
 3x70%, 3x80%, 3+x90%
+195#x7
 
 Tri-extensions:
 4x10-12 -- heavy
+45#-50#
 Planks:
 4x1 min
+20#
 
 WOD:
 10 Rounds of Cindy
+10:39
 ```
 
 ### 03-04
 ```
 Press:
 5x75%, 3x85%, 1+95%
+150#x3
 
-EMOM 12
-5 HSPU
-15 Double Unders
+Shoulder Flys
+5x10 @ 15#
 ```
