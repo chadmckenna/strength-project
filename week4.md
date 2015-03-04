@@ -4,6 +4,7 @@
 ```
 Bench:
 5x75%, 3x85%, 1+95%
+205#x6
 
 Strict Dips:
 6x8
@@ -11,6 +12,7 @@ Strict Dips:
 8 rounds:
 20 cal Assault Bike
 1 min rest
+0:45/0:53/0:52/1:02/1:04/1:13/1:16/0:57
 ```
 
 ### 04-02
@@ -18,11 +20,13 @@ Strict Dips:
 Split Jerk:
 2x6
     -> Work on form, don't move up unless lifts felt good
+175#
     
 AMRAP 8
 5-6-7-8-9-...
 Overhead Squat (95#)
-2x Double Unders
+3x Double Unders
+11 + 6 (62/168)
 ```
 
 ### 04-03
