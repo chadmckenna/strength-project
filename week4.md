@@ -33,14 +33,18 @@ Overhead Squat (95#)
 ```
 Bench:
 5x40%, 5x50%, 5x60%
+135#
 
 Planks:
-6x1 min @ 25#
+4x1 min @ 25#
+Shoulder Flys:
+4x8 @ 15#
 
 3 Rounds:
 20 T2B
 25 Push Press (95#)
 30 Squats
+11:27
 ```
 
 ### 04-04
