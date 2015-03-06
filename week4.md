@@ -51,8 +51,10 @@ Shoulder Flys:
 ```
 Press:
 5x40%, 5x50%, 5x60%
+105#
 
 Death by Muscle Ups (double tap)
+7 + 6 (34)
 ** After failure, moves to 2 min to complete next set (after 1 min break)
 ```
 
