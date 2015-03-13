@@ -17,18 +17,31 @@ Karen
 ### 05-02
 ```
 Push Jerk:
-3x8
-    -> Aim for 3 sets @ heaviest from [01-02](week1.md)
+1x8
+-> 235# (right foot forward jerk)
 ```
 
 ### 05-03
 ```
 Bench:
 3x70%, 3x80%, 3+x90%
+6x198#
+
+AMRAP 5
+3 MU
+30 DU
+4+1
 ```
 
 ### 05-04
 ```
+8x3 OHS
+215#
+```
+
+### 05-05
+```
 Press:
 5x65%, 5x75%, 5+x85%
+7x138#
 ```
