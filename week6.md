@@ -25,10 +25,20 @@ Split Jerk:
 Bench:
 5x40%, 5x50%, 5x60%
 
+    WOD: (10 min Time Intent (TI)) [WGC]
+      AMRAP 10
+        10 OHS (95/65)
+        15 Pull ups
+        200 m Run
 ```
 
 ### 06-04
 ```
 Press:
 3x70%, 3x80%, 3+x90%
+
+    WOD: (12-18 min TI) [WG]
+      4 Rounds:
+        12 power cleans (135/95)
+        24 bar over burpees
 ```
