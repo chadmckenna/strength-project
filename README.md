@@ -34,6 +34,12 @@ Strength Programming for the next several weeks. Following are links to the corr
 * Bench: 240#
 * Press: 180#
 
+## Cycle 3:
+* Bench: 245
+
+## Cycle 4:
+* Bench: 250
+
 ## Movements
 * Jerk
   * Split, Push/Power, BtN
