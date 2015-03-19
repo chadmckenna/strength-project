@@ -17,6 +17,10 @@ Strength Programming for the next several weeks. Following are links to the corr
 
 [Week Eight](week8.md)
 
+[Week Nine](week9.md)
+
+[Week Ten](week10.md)
+
 ## Goals:
   1. Improve overhead strength
   2. Improve bench press
