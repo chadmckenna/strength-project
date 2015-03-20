@@ -39,9 +39,12 @@ Bench:
 ```
 Press:
 3x70%, 3x80%, 3+x90%
+6x145#
 
     WOD: (12-18 min TI) [WG]
       4 Rounds:
         12 power cleans (135/95)
         24 bar over burpees
+        
+    12:29 @ 85 hhpc
 ```
