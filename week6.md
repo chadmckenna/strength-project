@@ -5,12 +5,16 @@
 Bench:
 100%: 245, 90%: 220.5
 5x75%, 3x85%, 1+95%
+210x5
 
-GHD Situps:
-6x10
-
-DB Tri Extensions:
-6x10
+    WOD:
+      Eastside lap
+      30 pull ups
+      30 situps
+      30 t2b
+      30 situps
+      
+     12:39
 ```
 
 ### 06-02
