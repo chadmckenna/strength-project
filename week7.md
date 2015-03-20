@@ -13,9 +13,13 @@ Bench:
 
 ### 07-02
 ```
-Behind the Neck Jerk:
-1x8
-    -> Max effort, heaviest possible.
+Bounce Jerk
+5x6
+    
+    WOD: (14 min TI) [WCG]
+      7 muscle ups
+      50 wallballs
+      100 double unders
 ```
 
 ### 07-03
