@@ -30,6 +30,7 @@ Bench:
     WOD: (5 min TI) [WC]
       21-15-9
         Deadlift (225/155)
+        * Possible subs: 95# deadlifts, 135# front squats, 105# high-hang clean
         Boxjump (24/20)
 ```
 
@@ -40,8 +41,6 @@ Press:
 
     WOD:
       Death by Pull ups (13-20 min TI) [G]
-      1 pull up in first minute, 2 in 2nd min, 3 in 3rd, ... until failure
-      * After failure, if other athletes are still going, they should do a max
-      set every other minute until all other athletes have reached failure.
+      * work the hollow position kip
     Timed: 500 m row
 ```
