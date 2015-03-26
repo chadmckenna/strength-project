@@ -18,11 +18,14 @@ Bench:
 ```
 Bounce Jerk
 5x6
+*** Didn't have time
     
     WOD: (14 min TI) [WCG]
       7 muscle ups
       50 wallballs
       100 double unders
+    
+    321
 ```
 
 ### 07-03
