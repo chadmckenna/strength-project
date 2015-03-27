@@ -16,10 +16,6 @@ Bench:
 
 ### 07-02
 ```
-Bounce Jerk
-5x6
-*** Didn't have time
-    
     WOD: (14 min TI) [WCG]
       7 muscle ups
       50 wallballs
@@ -32,12 +28,18 @@ Bounce Jerk
 ```
 Bench:
 3x70%, 3x80%, 3+x90%
+202#x8
+
+Split Jerk TnG
+5x5
+135#
 
     WOD: (5 min TI) [WC]
       21-15-9
         Deadlift (225/155)
         * Possible subs: 95# deadlifts, 135# front squats, 105# high-hang clean
         Boxjump (24/20)
+    4:03 @ 95#
 ```
 
 ### 07-04
