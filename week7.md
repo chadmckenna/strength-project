@@ -46,9 +46,13 @@ Split Jerk TnG
 ```
 Press:
 5x75%, 3x85%, 1+95%
+155#x4
 
     WOD:
       Death by Pull ups (13-20 min TI) [G]
       * work the hollow position kip
+    16 + 10
+    
     Timed: 500 m row
+    1:29.5
 ```
