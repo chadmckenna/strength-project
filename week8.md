@@ -4,11 +4,13 @@
 ```
 Bench:
 5x75%, 3x85%, 1+95%
+215#x5
 
-    WOD: (8 min TI) [WG]
+    WOD: (8 min TI) [CG]
       AMRAP 8
-        8 thrusters (115/75)
-        12 toes to bar
+        12 lateral box jumps
+        10 chest to bar pull ups
+      5+17
 ```
 
 ### 08-02
