@@ -15,9 +15,8 @@ Bench:
 
 ### 08-02
 ```
-Power Jerk, Split Jerk:
-1+1x6 @ 40%-60%
-    -> Deload, perfect form
+Split Jerk:
+5x205#, 5x185#
 ```
 
 ### 08-03
