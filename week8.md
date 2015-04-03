@@ -23,20 +23,25 @@ Split Jerk:
 ```
 Bench:
 5x40%, 5x50%, 5x60%
+5x155#
 
     WOD: (12-14 min TI) [CG]
       75 cal Row
       50 Wallballs (20/14)
       25 HSPU
       10 Muscle ups (sub 30 c2b or pull ups)
+    14:00
 ```
 
 ### 08-04
 ```
 Press:
 5x40%, 5x50%, 5x60%
+5x115#
 
     WOD: (6 min TI) [W]
       50 front squats (135/95)
       (5 burpees at the top of each minute. Workout does NOT start with burpees)
+      
+    4:36 (subbed 150 airsquats)
 ```
