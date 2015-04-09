@@ -44,6 +44,11 @@ Strength Programming for the next several weeks. Following are links to the corr
 ## Cycle 4:
 * Bench: 250
 
+## Finishing Numbers: (4/9/2015)
+* Bench: 250#
+* Jerk:
+  * Split: 270#
+
 ## Movements
 * Jerk
   * Split, Push/Power, BtN
