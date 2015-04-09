@@ -22,10 +22,13 @@ Split Jerk:
 Bench:
 1 RM
 
+250#
+
     WOD: (12 min TI) [WG]
       50 push press (95/65)
       50 burpees
       50 slam balls (30/20)
+    9:46 (95/40)
 ```      
 
 ### 09-04
