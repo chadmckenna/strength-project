@@ -35,7 +35,5 @@ Bench:
 ```
 Press:
 1 RM
-
-    WOD: (10 min TI) [C]
-      150 burpees for time
+180#
 ```      
