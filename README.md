@@ -46,6 +46,7 @@ Strength Programming for the next several weeks. Following are links to the corr
 
 ## Finishing Numbers: (4/9/2015)
 * Bench: 250#
+* Press: 180#
 * Jerk:
   * Split: 270#
 
